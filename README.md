@@ -12,6 +12,22 @@ It allows you to quickly check:
 
 Ideal for fast monitoring and operational awareness in a Cardano testnet or preview environment.
 
+# 1. Download the script
+```bash
+curl -O https://raw.githubusercontent.com/Midnight-Scripts/Midnight-Side-Chain-Monitoring/refs/heads/main/ScLiveView.sh
+```
+or use wget instead
+```bash
+wget https://raw.githubusercontent.com/Midnight-Scripts/Midnight-Side-Chain-Monitoring/refs/heads/main/ScLiveView.sh
+```
+# 2. Make the script executable
+```bash
+chmod +x ScLiveView.sh
+```
+# 3. Run the script
+```bash
+./ScLiveView.sh
+```
 
 
 
