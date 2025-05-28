@@ -25,9 +25,9 @@ wget https://raw.githubusercontent.com/Midnight-Scripts/Midnight-Side-Chain-Moni
 chmod +x ScLiveView.sh
 ```
 # 3. Run the script
+NOTE - before you runt the script make sure to update you password in ScLiveView.sh ( line 9 )
 ```bash
 ./ScLiveView.sh
 ```
 
-
-
+Hope this is helpfull.
