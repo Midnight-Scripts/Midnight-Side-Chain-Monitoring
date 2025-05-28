@@ -1,21 +1,5 @@
 #!/bin/bash
 
-# Clear the screen before printing anything
-clear
-# ===================================================================
-# Customized Cardano Dashboard with ASCII Borders
-# Shows:
-#  - Timestamp
-#  - QU Health (connectionStatus, version, network)
-#  - Cardano Tip (era, epoch, block, slot, etc.)
-#  - DB Status (sync percent)
-#  - Chain Status (sidechain/mainchain)
-#  - Kupo Health
-# In a nicely formatted layout using ASCII "boxes" and lines.
-#
-# Press Ctrl + C to exit.
-# ===================================================================
-
 # ================== User Configuration ==================
 CHAIN_STATUS_URL="https://rpc.testnet-02.midnight.network"
 CHAIN_STATUS_PAYLOAD='{ "jsonrpc": "2.0", "method": "sidechain_getStatus", "params": [], "id": 1 }'
