@@ -6,14 +6,13 @@ CHAIN_STATUS_PAYLOAD='{ "jsonrpc": "2.0", "method": "sidechain_getStatus", "para
 
 DB_HOST="localhost"
 DB_USER="postgres"
-DB_PASSWORD="a354394669c1492d"
+DB_PASSWORD="You_Password"
 DB_NAME="cexplorer"
 DB_PORT="5432"
 
 CARDANO_NODE_CONTAINER="cardano-node"
 TESTNET_MAGIC="2"
 
-KUPO_HEALTH_URL="http://localhost:1442/health"
 QU_HEALTH_URL="http://localhost:1337/health"
 
 REFRESH_INTERVAL=5
