@@ -10,8 +10,6 @@ It allows you to quickly check:
 
 <img width="638" alt="sidechain_statusview" src="https://github.com/user-attachments/assets/4f54cb38-d0a8-480b-80b2-98b0de5b50ac" />
 
-Ideal for fast monitoring and operational awareness in a Cardano testnet or preview environment.
-
 # 1. Download the script
 ```bash
 curl -O https://raw.githubusercontent.com/Midnight-Scripts/Midnight-Side-Chain-Monitoring/refs/heads/main/ScLiveView.sh
