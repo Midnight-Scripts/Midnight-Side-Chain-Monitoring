@@ -27,5 +27,7 @@ NOTE - before you runt the script make sure to update you password in ScLiveView
 ```bash
 ./ScLiveView.sh
 ```
+### ps 
+Do not forget to change the `DB_PASSWORD="your-password"`
 
 Hope this is helpfull.
